@@ -3,6 +3,7 @@
 I'm Inan, a software engineer based in Pakistan.
 
 Currently  working on improving myself by building applications. Primarily interested in backend development and system designs.
+
 Current tech stack of choice: FastAPI (Python) for backend, in the process of learning frontend with React.
 
 <!--
