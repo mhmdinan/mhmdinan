@@ -1,22 +1,42 @@
-## Hi there 👋
+## 👋 Hi, I'm Muhammad Inan Imran
+I'm a Software Engineer based in Pakistan with a background in Electrical Engineering. I transitioned from hardware to software, starting with Arduino and now I focus on software engineering. I'm passionate about backend development, system design, and machine learning. My tech stack includes FastAPI for backends, and I'm learning frontend with React. I also maintain a homelab with Linux systems and Docker for experimenting with deployments and CI/CD pipelines.
 
-I'm Inan, a software engineer based in Pakistan.
+🌍 Based in Pakistan
+🔭 Currently building applications to improve my skills
+📫 Reach me: [muhammadinanimran@gmail.com](mailto:muhammadinanimran@gmail.com)
+🔗 [Personal Website](https://mhmdinan.com)
 
-Currently  working on improving myself by building applications. Primarily interested in backend development and system designs.
+### 🛠️ Skills
 
-Current tech stack of choice: FastAPI (Python) for backend, in the process of learning frontend with React.
+Programming Languages: Python, C++, TypeScript
+Frameworks & Libraries: FastAPI, PyTorch, Scikit-Learn, NumPy, React (learning)
+Developer Tools: Docker, Git, Linux Servers, Nginx, CI/CD Pipelines
+Other: IoT (ESP32, Arduino), Machine Learning, Dimensionality Reduction, REST APIs, HTTPS Encryption
 
-<!--
-**mhmdinan/mhmdinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Projects
+Here are some of my key projects. Check out the repos for more details!
 
-Here are some ideas to get you started:
+#### ERP System (Work in Progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Description: Building a full-stack ERP system from scratch to learn end-to-end development.
+Tech Stack: FastAPI (backend), Vite + React (frontend)
+Repo: [erp-FASTAPI_REACT](https://github.com/mhmdinan/erp-FASTAPI_REACT)
+
+##### Dimensionality Reduction for Big Data (Thesis)
+
+Description: Evaluated dimensionality reduction techniques on large-scale power system datasets to optimize processing and storage. Conducted performance analysis and developed a recommendation framework for industrial scenarios.
+Tech Stack: Scikit-Learn, PyTorch, NumPy
+Repo: [final_year_project](https://github.com/mhmdinan/final_year_project)
+
+#### Activity Tracker
+
+Description: An application to record daily activity counts and generate summaries based on historical data.
+Tech Stack: Python
+Repo: [activity-tracker](https://github.com/mhmdinan/activity-tracker)
+
+📊 GitHub Stats
+![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdinan&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdinan&theme=radical&layout=compact&hide_border=true)
+
+Thanks for visiting! Feel free to star ⭐ or fork my repos if you find them useful. Let's connect!
