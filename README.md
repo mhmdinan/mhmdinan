@@ -34,9 +34,5 @@ Description: An application to record daily activity counts and generate summari
 Tech Stack: Python
 Repo: [activity-tracker](https://github.com/mhmdinan/activity-tracker)
 
-📊 GitHub Stats
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdinan&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdinan&theme=radical&layout=compact&hide_border=true)
 
 Thanks for visiting! Feel free to star ⭐ or fork my repos if you find them useful. Let's connect!
