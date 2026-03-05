@@ -8,9 +8,9 @@ I'm a Software Engineer based in Pakistan with a background in Electrical Engine
 
 ### 🛠️ Skills
 
-Programming Languages: Python, C++, Javascript/Typescript, Go 
-Frameworks & Libraries: FastAPI, Sqlalchemy, PyTorch, Scikit-Learn, NumPy, Next.JS / React
-Developer Tools: SQL, Docker, Git, Linux Servers, CI/CD Pipelines
+Programming Languages: Python, C++, Javascript/Typescript, Go  
+Frameworks & Libraries: FastAPI, Sqlalchemy, PyTorch, Scikit-Learn, NumPy, Next.JS / React  
+Developer Tools: SQL, Docker, Git, Linux Servers, CI/CD Pipelines  
 Other:  Nginx, IoT (ESP32, Arduino), REST APIs, HTTPS Encryption  
 
 ### 🚀 Projects
