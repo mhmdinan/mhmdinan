@@ -8,23 +8,23 @@ I'm a Software Engineer based in Pakistan with a background in Electrical Engine
 
 ### 🛠️ Skills
 
-Programming Languages: Python, C++, TypeScript  
-Frameworks & Libraries: FastAPI, PyTorch, Scikit-Learn, NumPy, React (learning)  
-Developer Tools: Docker, Git, Linux Servers, Nginx, CI/CD Pipelines  
-Other: IoT (ESP32, Arduino), Machine Learning, Dimensionality Reduction, REST APIs, HTTPS Encryption  
+Programming Languages: Python, C++, Javascript/Typescript, Go 
+Frameworks & Libraries: FastAPI, Sqlalchemy, PyTorch, Scikit-Learn, NumPy, Next.JS / React
+Developer Tools: SQL, Docker, Git, Linux Servers, CI/CD Pipelines
+Other:  Nginx, IoT (ESP32, Arduino), REST APIs, HTTPS Encryption  
 
 ### 🚀 Projects
 Here are some of my key projects. Check out the repos for more details!
+
+#### Docker Containers Mapping
+Description: Visualize docker containers present on multiple hosts.  
+Tech Stack: Go (backend), JS (frontend)  
+Repo: [homelab-mapper-test](https://github.com/mhmdinan/homelab-mapper-test)  
 
 #### ERP System (Work in Progress)
 Description: Building a full-stack ERP system from scratch to learn end-to-end development.  
 Tech Stack: FastAPI (backend), Vite + React (frontend)  
 Repo: [erp-FASTAPI_REACT](https://github.com/mhmdinan/erp-FASTAPI_REACT)  
-
-##### Dimensionality Reduction for Big Data (Thesis)
-Description: Evaluated dimensionality reduction techniques on large-scale power system datasets to optimize processing and storage. Conducted performance analysis and developed a recommendation framework for industrial scenarios.  
-Tech Stack: Scikit-Learn, PyTorch, NumPy  
-Repo: [final_year_project](https://github.com/mhmdinan/final_year_project)  
 
 #### Activity Tracker
 Description: An application to record daily activity counts and generate summaries based on historical data.  
@@ -32,4 +32,4 @@ Tech Stack: Python
 Repo: [activity-tracker](https://github.com/mhmdinan/activity-tracker)  
 
 
-Thanks for visiting! Feel free to star ⭐ or fork my repos if you find them useful. Let's connect!
+Thanks for visiting! Feel free to star ⭐ or fork my repos if you find them useful. Let's connect if you want to chat!
