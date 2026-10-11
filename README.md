@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Muhammad Inan Imran
-I'm a Software Engineer based in Pakistan with a background in Electrical Engineering. I transitioned from hardware to software, starting with Arduino and now I focus on software engineering. I'm passionate about backend development, system design, and machine learning. My tech stack includes FastAPI for backends, and I'm learning frontend with React. I also maintain a homelab with Linux systems and Docker for experimenting with deployments and CI/CD pipelines.
+I'm a Software Engineer based in Pakistan focused on backend development and scalable System Design — APIs, data models, containers, CI/CD, and the infrastructure they run on, with a bias toward reliability and scale. I also maintain a homelab and cloud VPS where I self-host my own services and the pipelines that deploy them.
 
 🌍 Based in Pakistan  
 🔭 Currently building applications to improve my skills  
@@ -8,10 +8,10 @@ I'm a Software Engineer based in Pakistan with a background in Electrical Engine
 
 ### 🛠️ Skills
 
-Programming Languages: Python, C++, Javascript/Typescript, Go  
-Frameworks & Libraries: FastAPI, Sqlalchemy, PyTorch, Scikit-Learn, NumPy, Next.JS / React  
+Programming Languages: Python, Javascript/Typescript, Go
+Frameworks & Libraries: FastAPI, Next.JS
 Developer Tools: SQL, Docker, Git, Linux Servers, CI/CD Pipelines  
-Other:  Nginx, IoT (ESP32, Arduino), REST APIs, HTTPS Encryption  
+Other:  Nginx?  
 
 ### 🚀 Projects
 Here are some of my key projects. Check out the repos for more details!
