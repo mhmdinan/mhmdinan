@@ -21,10 +21,10 @@ Description: Visualize docker containers present on multiple hosts.
 Tech Stack: Go (backend), JS (frontend)  
 Repo: [homelab-mapper-test](https://github.com/mhmdinan/homelab-mapper-test)  
 
-#### ERP System (Work in Progress)
-Description: Building a full-stack ERP system from scratch to learn end-to-end development.  
-Tech Stack: FastAPI (backend), Vite + React (frontend)  
-Repo: [erp-FASTAPI_REACT](https://github.com/mhmdinan/erp-FASTAPI_REACT)  
+#### Task Manager
+Description: Personal task management app — a Go single binary + SQLite with a kanban UI, designed to be driven by AI agents via a scoped token API.  
+Tech Stack: Go, SQLite  
+Repo: [task-management](https://github.com/mhmdinan/task-management)  
 
 #### Activity Tracker
 Description: An application to record daily activity counts and generate summaries based on historical data.  
