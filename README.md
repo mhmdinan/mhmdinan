@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Muhammad Inan Imran
-I'm a Software Engineer based in Pakistan focused on backend development and scalable System Design — APIs, data models, containers, CI/CD, and the infrastructure they run on, with a bias toward reliability and scale. I also maintain a homelab and cloud VPS where I self-host my own services and the pipelines that deploy them.
+I'm a Software Engineer based in Pakistan focused on backend development and scalable System Design — APIs, data models, containers, CI/CD, and the infrastructure they run on, with a bias toward reliability and scale. I also maintain a homelab and cloud VPS where I self-host my own services and the pipelines that deploy them.  
 
 🌍 Based in Pakistan  
 🔭 Currently building applications to improve my skills  
@@ -8,9 +8,9 @@ I'm a Software Engineer based in Pakistan focused on backend development and sca
 
 ### 🛠️ Skills
 
-Programming Languages: Python, Javascript/Typescript, Go
-Frameworks & Libraries: FastAPI, Next.JS
-Developer Tools: SQL, Docker, Git, Linux Servers, CI/CD Pipelines  
+Programming Languages: Python, Javascript/Typescript, Go  
+Frameworks & Libraries: FastAPI, Next.JS  
+Developer Tools: SQL, Docker, Git, Linux Servers, CI/CD Pipelines   
 Other:  Nginx?  
 
 ### 🚀 Projects
